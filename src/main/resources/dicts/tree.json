@@ -1,0 +1,43 @@
+{
+  "Animais": {
+    "Carnívoros": {
+      "Felinos": [
+        "Leões",
+        "Tigres",
+        "Jaguars"
+      ]
+    },
+    "Herbívoros": {
+      "Equídeos": [
+        "Cavalos",
+        "Zebras",
+        "Asnos"
+      ],
+      "Bovídeos": [
+        "Bois",
+        "Búfalos",
+        "Antílopes",
+        "Cabras"
+      ],
+      "Primatas": [
+        "Gorilas",
+        "Chimpanzés",
+        "Orangotangos"
+      ],
+      "Aves": {
+        "Pássaros": [
+          "Canários",
+          "Papagaios",
+          "Pardais",
+          "Rouxinóis"
+        ],
+        "Rápinas": [
+          "Águias",
+          "Falcões",
+          "Corujas",
+          "Milhafres"
+        ]
+      }
+    }
+  }
+}
